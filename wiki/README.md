@@ -2,6 +2,8 @@
 
 This wiki is the project's linked, source-grounded map of statistical modelling and machine learning for cybersecurity. It supports the UCL student research project by connecting security challenges to methods, data, software, providers, evidence, and research gaps. It is a curated evidence base, not a substitute for the original sources.
 
+Start with the [research index](index.md) or the [comparison-led landscape](syntheses/research-landscape.md).
+
 ## Structure
 
 ```text
