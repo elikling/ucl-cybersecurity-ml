@@ -1,0 +1,3 @@
+Project <name> - abstruct
+
+This project explores the latest innovation in Generative Data scscince for enriching the work of cybersecurty analysts and improving accuracy and power of idnetifying breaches and attacks. this includes using tyolored meta statistician agents throught the modeling lifecycle and leveraging tabular foundation modles to detect anomalous and potentially malicious behaviour in cybersecurity web logs. Students will review current research and industry best practices, such as TabPFN with emerging anomaly-detection approaches to assess their effectiveness in real-world security scenarios. The findings will provide practical recommendations that can inform future AI-powered cybersecurity capabilities within Avanade's Security Practice.

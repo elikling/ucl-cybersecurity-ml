@@ -6,3 +6,14 @@ My particular interest is in "Generative-Data Science": an umbrella for generati
 
 Present the results as a concise overview followed by a comparison table with columns for cybersecurity problem area, challenge, methods, evidence and limitations, research gap, and relevant datasets or benchmarks. Cite substantive claims with source links and publication dates, and distinguish established findings from emerging hypotheses.
 
+The outcome of the project:
+1. A Technical presetntation for data scietists and statisticians coveing the finding of the litereture review and benchmarking
+2. an engaging demo that shows the benchmanrkign of inovative approaches and how it integrates into Azure Tech and Fabric
+3. an executing pitch of an acceleretor
+
+The project will be run in sprints of three weeks each January till March
+Sprint 1: Interviews with securety team - discovery of the field - initial planning
+Sprint 2: Literature review and plannig the benchmarking
+sprint 3: benchmarking and findings
+sprint 4: demo and presentation deck
+sprint 5: consolidation and exec pitch
