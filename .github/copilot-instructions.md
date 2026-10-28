@@ -2,6 +2,11 @@
 
 This repository supports a UCL student research project on statistical modelling and machine learning for cybersecurity. The `Planing/` directory contains project planning material. The `wiki/` directory is the evolving, source-grounded knowledge base; its structure and content rules are defined in [wiki/README.md](../wiki/README.md) and [.github/instructions/cybersecurity-wiki.instructions.md](./instructions/cybersecurity-wiki.instructions.md).
 
+## Communication
+
+- Always use UK English spelling and grammar.
+- End every response that reports file changes with a suggested commit note. Do not create a commit unless explicitly requested.
+
 ## Working with research and the wiki
 
 - Load the relevant cybersecurity wiki skill for source curation, cross-source synthesis, or maintenance. Keep each task within that workflow.
