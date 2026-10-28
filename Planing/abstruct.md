@@ -1,0 +1,9 @@
+# Generative Data Science for Cybersecurity
+
+## Abstract
+
+This UCL student research project will investigate how emerging innovations in Generative AI and statistical modelling approaches could be used by Avanade to shape a cybersecurity analysts value proposition focusing on detecting and investigating potentially malicious behaviour. It will examine three related but distinct strands of Generative Data Science: generative AI assistance, bounded statistical analyst agents [Agentic-Meta-Statistician] and tabular foundation models. The aim is to establish where these approaches offer measurable value, where established methods remain preferable and shape an accelerator offering.
+
+Informed by interviews with Avanade security practitioners and a focused review of recent research, students will select one defensive detection task using openly available or explicitly authorised structured security data. They will benchmark a suitable tabular foundation model, such as TabPFN, against established and novel statistical and machine-learning approaches, assessing detection performance [Accuracy and power], false-alert burden, uncertainty and computational cost. A separate evaluation will examine whether a tailored statistical analyst agent can support reproducible, evidence-backed analysis more efficiently without compromising analytical correctness. Benchmark findings will be distinguished from claims about effectiveness in live security operations.
+
+The project will deliver a technical presentation, reproducible experimental artefacts, an engaging demonstrator exploring integration with Azure and Microsoft Fabric, and an executive pitch for a proposed accelerator. The findings will inform practical recommendations for Avanade's Security Practice, including limitations, governance requirements and the conditions for a follow-on pilot.
